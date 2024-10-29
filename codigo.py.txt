@@ -10,6 +10,6 @@ def amizades(quantidade):
   else:
     print('O que importa não é a quantidade e sim a qualidade')
 
-amigos = ['Lucas', 'Dani', 'Leticia', 'Zé', 'Caio', 'Arthur', 'Antonio', 'Juia', 'Bento']
+amigos = ['Lucas', 'Vini', 'Yann', 'Gabriel', 'Caio', 'Dio', 'Carlos', 'Pedro', 'João']
 quantidade = melhores_amigos(amigos)
 amizades(quantidade)
