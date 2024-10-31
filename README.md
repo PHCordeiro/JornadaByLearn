@@ -1,13 +1,13 @@
-# Jornada By Learn em Python
+# Journey By Learn in Python
 
-Este repositório contém todos os códigos desenvolvidos ao longo do curso **Jornada By Learn em Python**. Cada pasta ou arquivo representará um projeto ou exercício criado durante o curso, com o objetivo de reforçar e aplicar os conceitos aprendidos.
+This repository contains all the code developed throughout the **Journey By Learn in Python** course. Each folder or file will represent a project or exercise created during the course, aimed at reinforcing and applying the learned concepts.
 
-## Códigos Desenvolvidos
+## Developed Code
 
-### 1. Listando Amigos
-- **Descrição:** Um código simples para verificar a quantidade de amigos que você possui.
-- **Objetivo:** Praticar manipulação de variáveis e listas em Python.
+### 1. Listing Friends
+- **Description:** A simple code to check the number of friends you have.
+- **Objective:** Practice variable and list manipulation in Python.
 
 ---
 
-Mais projetos e exercícios serão adicionados conforme o avanço no curso. Acompanhe o repositório para conferir a evolução!
+More projects and exercises will be added as the course progresses. Follow the repository to check out the evolution!
